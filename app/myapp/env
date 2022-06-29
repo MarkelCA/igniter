@@ -136,8 +136,3 @@
 #--------------------------------------------------------------------
 
 # curlrequest.shareOptions = true
-database.default.hostname=igniter-db
-database.default.port=3306
-database.default.database=markel
-database.default.username=markel
-database.default.password=
